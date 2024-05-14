@@ -1,6 +1,7 @@
 # Intro to Data Engineering with Snowpark Python
 this is an example how to use codespaces in github to develop Snowpark procedures and funtions as part of ELT process with dependent tasks
 
+![image](https://github.com/muruasimon/sfguide-data-engineering-with-snowpark-python-intro/assets/55100082/8ef0b2df-601b-448b-9a8e-15e2ec5d7cfc)
 
 
 This repository contains the code for the *Intro to Data Engineering with Snowpark Python* Snowflake Quickstart.
